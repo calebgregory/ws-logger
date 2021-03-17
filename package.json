@@ -1,0 +1,16 @@
+{
+  "name": "ws-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:calebgregory/ws-logger.git",
+  "author": "Caleb Gregory <calebgregory@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rxjs": "^6.6.6",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "open": "^8.0.2"
+  }
+}
